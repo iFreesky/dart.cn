@@ -2831,7 +2831,7 @@ you can also access fields on that same object.
 This often saves you the step of creating a temporary variable and
 allows you to write more fluid code.
 
-级联运算符 (`..`, `?..`) 可以让你在同一个对象上连续调用多个对象的变量或方法。
+级联运算符 (`..`, `?..`) 可以让你在同一个对象上连续调用该对象的多个变量或方法。
 
 Consider the following code:
 
